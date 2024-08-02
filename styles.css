@@ -1,0 +1,32 @@
+
+#sectionOne {
+    display: flex;
+    height: 100vh;
+
+}
+
+#sectionOneDetails {
+    padding: 15%;
+    width: 50%;
+}
+
+#sectionOneImageContainer {
+    padding: 15%;
+    width: 50%;
+    background-color: mediumaquamarine;
+}
+
+#sectionOneImage {
+    width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
